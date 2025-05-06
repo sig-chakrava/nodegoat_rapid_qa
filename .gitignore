@@ -32,3 +32,4 @@ test/e2e/videos/
 pim.json
 connect.json
 pim_tm.json
+.bridge/
